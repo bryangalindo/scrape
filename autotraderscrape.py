@@ -102,4 +102,3 @@ if __name__ == '__main__':
         w.writerows(car_data)
         w.writerows(accidents)
         
-        
