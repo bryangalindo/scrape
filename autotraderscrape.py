@@ -101,3 +101,5 @@ if __name__ == '__main__':
         w.writeheader()
         w.writerows(car_data)
         w.writerows(accidents)
+        
+        
