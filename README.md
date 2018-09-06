@@ -5,6 +5,5 @@
 - Cut down data collection times from 8 hours to 5 minutes
 ## Auto Trader Scraper
 - Personal project
-- Collect over 1000 pieces of information 
+- Collects over 1000 pieces of information 
 - Analyze price patterns from used car postings
-- Carfax scraper used to collect accident information
